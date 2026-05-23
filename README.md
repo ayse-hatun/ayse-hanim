@@ -4,108 +4,103 @@
 
 ### Applied AI Systems Engineer • Full Stack Builder • Human-Centered AI Designer
 
-<p align="center">
-I design and build AI systems with real-world structure, reliability, and clear decision flow — beyond simple chatbots.
-</p>
-
-<p align="center">
-[![GitHub followers](https://img.shields.io/github/followers/ayse-hatun?label=Follow&style=flat-square)](https://github.com/ayse-hatun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayse-hatun)
-[![Open to work](https://img.shields.io/badge/Open%20to%20Work-Yes-green?style=flat-square)](https://www.linkedin.com/in/ayse-hatun)
-</p>
-
 </div>
 
----
+<p align="center">
+I design and build AI systems that transform unstructured data into reliable, structured decision workflows — focusing on real-world usability, not just model outputs.
+</p>
 
-## 🚀 Quick Overview
+<p align="center">
 
-- Built AI workflows that turn unstructured data into validated decisions.
-- Delivered full-stack products with modern frontend UI, backend APIs, and structured LLM pipelines.
-- Focused on explainability, reliability, and human-centered AI in real-world deployments.
+[![GitHub followers](https://img.shields.io/github/followers/ayse-hatun?label=Follow&style=flat-square)](https://github.com/ayse-hatun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com)
+[![Status](https://img.shields.io/badge/Open%20to%20Opportunities-Yes-green?style=flat-square)]()
 
----
-
-## 🌟 Why This README Works for LinkedIn / Portfolio
-
-- Clear headline with a strong professional summary.
-- Simple visual badges for GitHub, LinkedIn, and availability.
-- Project highlights that show impact, not just tech.
-- A clean narrative that is easy for recruiters and collaborators to scan.
+</p>
 
 ---
 
-## 🏆 Signature Projects
+## ⚡ Core Identity
 
-### SmartHire AI
-AI recruitment intelligence that converts resumes into structured, explainable hiring decisions.
-- Designed for reliability, scoring, and validation.
-- Built as a multi-stage LLM pipeline with architecture-first thinking.
-
-### Voice to Invoice
-Voice-driven automation that turns natural speech into structured invoices.
-- Combines transcription, AI structuring, and workflow automation.
-- Positioned for SaaS-ready growth and real-time usage.
-
-### Portfolio System
-Interactive identity layer with motion UI, custom cursor interactions, and modern frontend architecture.
-- Created as a showcase of both product design and engineering execution.
+🧠 I build AI systems, not just applications  
+⚙️ I design structured pipelines over raw LLM outputs  
+🔐 I focus on reliability, validation, and controlled reasoning  
+📊 I convert unstructured inputs into decision-ready systems  
+🌍 I design human-centered AI workflows for real environments  
 
 ---
 
-## 🎬 Quick Demo Snapshot
+## 🏆 Flagship Systems
 
-- **SmartHire AI** — Resume-to-decision flows with explainable scoring.
+### 🧠 SmartHire AI (Primary System)
+AI-powered recruitment intelligence platform that converts resumes into structured, explainable hiring decisions using multi-stage LLM pipelines.
 
-- **Portfolio System** — Immersive UI built to highlight craft and capability.
-
-> These demos are designed to show how AI systems deliver real outcomes, not just generate text.
-
----
-
-## 🧠 System Thinking
-
-I treat LLMs as components, not the complete solution.
-
-My approach:
-- Constrain outputs with explicit structure.
-- Build reasoning into multi-stage pipelines.
-- Validate every step before decisions are finalized.
-- Keep results explainable and auditable.
-
-> “LLMs are components — not the system itself.”
+→ Focus: AI reliability, scoring systems, validation architecture  
+→ Built as: structured decision intelligence system (not chatbot)
 
 ---
 
-## 🛠️ Tech Stack
+### 🎙️ Voice to Invoice (In Progress)
+Voice-driven automation system that converts natural speech into structured financial invoices using transcription + LLM-based structuring pipelines.
 
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, REST APIs
-- AI: High-reasoning LLM APIs, structured prompting
-- Database: Supabase
-- Architecture: Multi-stage AI pipelines and validation layers
+→ Focus: workflow automation + SaaS evolution  
+→ Status: actively evolving system design
 
 ---
 
-## 🎯 Current Focus
+### 🌐 Portfolio System
+Interactive identity layer built with motion UI, custom cursor interaction, and modern frontend architecture.
 
-- Improving AI reliability in real-world systems
-- Building scalable full-stack AI products
-- Turning prototypes into production-grade systems
-- Strengthening system design and architecture thinking
+→ Focus: personal branding + UI/UX engineering expression  
+
+---
+
+## 🧠 System Thinking Approach
+
+I do not treat LLMs as standalone intelligence.
+
+I design systems where:
+
+→ Input is structured  
+→ Reasoning is constrained  
+→ Output is validated  
+→ Decisions are explainable  
+
+### Core principle:
+> LLMs are components inside systems — not the system itself.
+
+---
+
+## 🧩 Technical Stack
+
+Frontend → React, HTML, CSS, JavaScript  
+Backend → Node.js, REST APIs  
+AI Layer → High-reasoning LLM APIs, structured prompting  
+Database → Supabase  
+Architecture → Multi-stage AI pipelines + validation systems  
+
+---
+
+## 📊 Current Focus
+
+- Building reliable AI decision systems  
+- Improving LLM output consistency and structure  
+- Designing scalable full-stack AI products  
+- Moving prototypes toward production-ready systems  
+- Strengthening system architecture thinking  
 
 ---
 
 ## 📬 Connect
 
-- GitHub: https://github.com/ayse-hatun
-- LinkedIn: https://www.linkedin.com/in/ayesha-rasheed-khan
-- Email: ayesharasheedkhan64@gmail.com
+GitHub → https://github.com/ayse-hatun  
+LinkedIn → your-link-here  
+Email → optional  
 
 ---
 
 <div align="center">
 
-**Building reliable AI systems that work in real workflows.**
+⚡ Building structured AI systems that work in real-world environments.
 
 </div>
