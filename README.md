@@ -94,8 +94,8 @@ Architecture → Multi-stage AI pipelines + validation systems
 ## 📬 Connect
 
 GitHub → https://github.com/ayse-hatun  
-LinkedIn → your-link-here  
-Email → optional  
+LinkedIn → https://www.linkedin.com/in/ayesha-rasheed-khan 
+Email → ayesharasheedkhan64@gmail.com
 
 ---
 
