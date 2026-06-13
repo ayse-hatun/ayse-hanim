@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Ayesha Rasheed
+#  Ayesha Rasheed
 
 ### Applied AI Systems Engineer • Full Stack Builder • Human-Centered AI Designer
 
